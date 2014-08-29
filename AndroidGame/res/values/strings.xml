@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Hello World, MoneyGrabbing!</string>
+    <string name="app_name">Tempo Bubbles</string>
+    <string name="button_start">Start</string>
+    <string name="button_instruction">Illustration</string>
+    <string name="button_exit">Over</string>
+    <string name="button_back">Back</string>
+    <string name="text_instruction">
+              遊戲方式：\n\n\t在一定時間內，用手觸碰螢幕中的色球，即可增加分數。
+                    \n\t黃色增加100分，灰色增加500分，紅色增加1000分。
+                    \n\t第一條線點擊成功獲得全部分數。
+                     \n\t第二條線點擊成功獲得二分之一分數。
+                     \n\t第三條線點擊成功獲得四分之一分數。
+                       \n\t超過線點擊扣原分數。
+     \n\nHow to play：\n\n\tWithin a certain time, hand touch screen in the chromosphere, can increase the score.
+                     \n\tYellow 100 gray 500 points, the red of 1000 points.
+                     \n\tThe first line Click to successfully get all points.
+                     \n\tThe second line click on the successful half scores.
+                     \n\tThe third line click on the successful fourth fraction.
+                     \n\tMore than line click on the buckle of the original scores.
+     
+     
+     
+     
+     </string>    
+</resources>
